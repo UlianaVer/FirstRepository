@@ -1,0 +1,14 @@
+C:\Users\reddo\source\repos\BowApp3\BowApp3\bin\Debug\BowApp3.exe.config
+C:\Users\reddo\source\repos\BowApp3\BowApp3\bin\Debug\BowApp3.exe
+C:\Users\reddo\source\repos\BowApp3\BowApp3\bin\Debug\BowApp3.pdb
+C:\Users\reddo\source\repos\BowApp3\BowApp3\obj\Debug\BowApp3.csproj.AssemblyReference.cache
+C:\Users\reddo\source\repos\BowApp3\BowApp3\obj\Debug\BowApp3.csproj.CoreCompileInputs.cache
+C:\Users\reddo\source\repos\BowApp3\BowApp3\obj\Debug\BowApp3.exe
+C:\Users\reddo\source\repos\BowApp3\BowApp3\obj\Debug\BowApp3.pdb
+C:\Users\reddo\OneDrive\Рабочий стол\BowApp3\BowApp3\bin\Debug\BowApp3.exe.config
+C:\Users\reddo\OneDrive\Рабочий стол\BowApp3\BowApp3\bin\Debug\BowApp3.exe
+C:\Users\reddo\OneDrive\Рабочий стол\BowApp3\BowApp3\bin\Debug\BowApp3.pdb
+C:\Users\reddo\OneDrive\Рабочий стол\BowApp3\BowApp3\obj\Debug\BowApp3.csproj.AssemblyReference.cache
+C:\Users\reddo\OneDrive\Рабочий стол\BowApp3\BowApp3\obj\Debug\BowApp3.csproj.CoreCompileInputs.cache
+C:\Users\reddo\OneDrive\Рабочий стол\BowApp3\BowApp3\obj\Debug\BowApp3.exe
+C:\Users\reddo\OneDrive\Рабочий стол\BowApp3\BowApp3\obj\Debug\BowApp3.pdb
